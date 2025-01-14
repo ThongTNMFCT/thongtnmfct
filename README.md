@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Xin chào mọi người, mình là **TRẦN NGỌC MINH THÔNG**, một người phát triển đồ án
+Mình đên từ K6 - Lớp K6T3 - Trường THPT FPT Cần Thơ
 <!--
 **ThongTNMFCT/thongtnmfct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
